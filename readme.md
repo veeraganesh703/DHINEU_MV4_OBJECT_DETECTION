@@ -1,6 +1,6 @@
 # Object Detection  (YOLOv8)
 
-This project demonstrates an *object detection * using **YOLOv8*.  
+This project demonstrates an *object detection* using **YOLOv8*.  
 It trains on custom datasets, applies augmentations, performs inference, and provides a simple Gradio UI for testing.
 
 ---
