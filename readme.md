@@ -17,7 +17,7 @@ It trains on custom datasets, applies augmentations, performs inference, and pro
 
 ## Project Workflow
 1. *Input*: Custom dataset (images + annotations).
-2. *Preprocessing*: Apply augmentations & organize train/val/test splits.
+2. *Preprocessing*: Apply augmentations & organize train/val/test splits. [Dataset](https://drive.google.com/file/d/1xwgfQq-fBlKzyDKRtsc-JkcNuHdwVZky/view?usp=sharing)
 3. *Training*: Fine-tune YOLOv8 on the dataset.
 4. *Evaluation*: Monitor metrics (mAP, Precision, Recall).
 5. *Inference*: Run detection on new images.
