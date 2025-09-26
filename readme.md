@@ -31,6 +31,7 @@ It trains on custom datasets, applies augmentations, performs inference, and pro
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/veeraganesh703/DHINEU_MV4_OBJECT_DETECTION
+cd DHINEU_MV4_OBJECT_DETECTION
 pip install -r requirements.txt
+```
